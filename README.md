@@ -28,3 +28,4 @@ Then open the local URL shown in terminal (usually `http://localhost:5173`).
 
 - On Windows PowerShell with execution policy restrictions, prefer `npm.cmd` instead of `npm`.
 - If a page is blank, check browser DevTools Console for JSX/import errors.
+- Testing
